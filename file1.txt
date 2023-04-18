@@ -1,2 +1,5 @@
 Hello
+<<<<<<< HEAD
 Hello
+=======
+>>>>>>> add-feature1
